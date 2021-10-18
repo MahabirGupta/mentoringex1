@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    
     "test": "jest"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "jest": "^27.2.5"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.1.6"
   }
-  
 }
